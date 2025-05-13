@@ -7,7 +7,7 @@
 ## 🚀 What I’m Working On
 - Building QA sample case studies and test plans  
 - Learning API testing via Postman  
-- Getting familiar with GitHub and Python for automation foundations  
+- Getting familiar with Selenium, GitHub, and Python for automation foundations  
 
 ## 📂 Featured Projects
 - [QA-Learning-Journal](https://github.com/jacobsimpsonQA/QA-Learning-Journal) – Logs from my QA learning journey  
