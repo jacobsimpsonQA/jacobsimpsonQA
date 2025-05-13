@@ -8,9 +8,3 @@
 - Building QA sample case studies and test plans  
 - Learning API testing via Postman  
 - Getting familiar with Selenium, GitHub, and Python for automation foundations  
-
-## 📂 Featured Projects
-- [QA-Learning-Journal](https://github.com/jacobsimpsonQA/QA-Learning-Journal) – Logs from my QA learning journey  
-- [Sample-Test-Cases](https://github.com/jacobsimpsonQA/Sample-Test-Cases) – Sample bugs, cases, and strategy docs
-
-📬 [Connect on LinkedIn](https://www.linkedin.com/in/jmsimpson4/)
