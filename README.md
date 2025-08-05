@@ -7,4 +7,4 @@
 ## 🚀 What I’m Working On
 - Building QA sample case studies and test plans  
 - Learning API testing via Postman  
-- Getting familiar with Selenium, GitHub, and Python for automation foundations  
+- Getting familiar with Playwright, Selenium, Typescript, GitHub, and Python for automation foundations  
